@@ -52,7 +52,7 @@ The dataset contains the following attributes:
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/customer-segmentation.git
+git clone https://github.com/learner-2003/customer-segmentation.git
 
 Navigate to the project directory:
 
